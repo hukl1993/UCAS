@@ -3,5 +3,6 @@ public class Test {
         System.out.println("Hello GitHub!");
         System.out.println("灬凯凯凯凯利、来了！");
         System.out.println("开启新篇章吧！");
+        System.out.println("那就从现在开始！");
     }
 }
